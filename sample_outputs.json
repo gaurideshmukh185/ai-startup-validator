@@ -1,0 +1,70 @@
+{
+  "startup_idea": "AI tool for college students to auto-generate notes from lectures",
+  "keyword": "note taking",
+  
+  "module_1_idea_understanding": {
+    "idea_summary": "An AI tool that automatically generates structured notes from lectures for college students.",
+    "category": "EdTech, SaaS",
+    "business_model": "Freemium, Subscription",
+    "target_user": "College students",
+    "problem_solved": "Students struggle to take comprehensive notes during lectures, often miss key information.",
+    "unique_value": "Provides intelligent, structured, and study-ready notes specifically tailored to academic needs."
+  },
+  
+  "module_2_market_demand": {
+    "demand_score": 72,
+    "trend_direction": "rising",
+    "market_size": "large",
+    "growth_potential": "high",
+    "recommendation": "Strong market opportunity with growing interest in AI-powered education tools.",
+    "target_audience": "College students, educators, lifelong learners"
+  },
+  
+  "module_3_competitor_intel": {
+    "competitors": [
+      {
+        "name": "Otter.ai",
+        "funding": "$63M",
+        "pricing": "Free basic plan, Pro $16.99/month",
+        "strength": "Excellent transcription accuracy",
+        "weakness": "Limited as a general note-taking app"
+      },
+      {
+        "name": "Notion",
+        "funding": "$343M",
+        "pricing": "Free personal plan, Plus $10/month",
+        "strength": "Versatile and customizable",
+        "weakness": "Steep learning curve"
+      },
+      {
+        "name": "Goodnotes",
+        "funding": "$30M",
+        "pricing": "$9.99/year or $29.99 one-time",
+        "strength": "Best-in-class handwriting experience",
+        "weakness": "Primarily tablet-focused"
+      }
+    ],
+    "market_competition_level": "high",
+    "summary": "The market is competitive with established players. Differentiation needed in AI summarization."
+  },
+  
+  "module_4_reddit_sentiment": {
+    "keyword": "note taking",
+    "total_comments_analyzed": 10,
+    "positive_count": 4,
+    "negative_count": 2,
+    "neutral_count": 4,
+    "average_sentiment": 0.14,
+    "pain_points": [
+      "The sync feature is broken, lost my data twice.",
+      "This keeps crashing all the time. Terrible experience."
+    ],
+    "summary": "Mostly positive sentiment. 4 positive vs 2 negative. Users are happy overall, but sync and stability are pain points."
+  },
+  
+  "overall_recommendation": {
+    "verdict": "Promising opportunity",
+    "confidence_score": 78,
+    "next_steps": "Focus on reliable sync and crash-free experience to address user pain points found in Reddit sentiment analysis."
+  }
+}
