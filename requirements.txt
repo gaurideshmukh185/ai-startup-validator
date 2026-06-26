@@ -1,0 +1,10 @@
+google-generativeai
+python-dotenv
+pytrends
+pandas
+requests
+vaderSentiment
+praw
+fastapi
+uvicorn
+pydantic
